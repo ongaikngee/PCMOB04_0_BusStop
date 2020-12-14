@@ -1,0 +1,84 @@
+{
+    "services": [
+        {
+            "no": "138",
+            "operator": "SBST",
+            "next": {
+                "time": "2020-12-14T11:57:26+08:00",
+                "duration_ms": 252242,
+                "lat": 1.4124346666666667,
+                "lng": 103.78911783333334,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "subsequent": {
+                "time": "2020-12-14T12:07:22+08:00",
+                "duration_ms": 848242,
+                "lat": 1.3873271666666667,
+                "lng": 103.81950733333333,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "next2": {
+                "time": "2020-12-14T12:07:22+08:00",
+                "duration_ms": 848242,
+                "lat": 1.3873271666666667,
+                "lng": 103.81950733333333,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "next3": {
+                "time": "2020-12-14T12:16:03+08:00",
+                "duration_ms": 1369242,
+                "lat": 1.376976,
+                "lng": 103.84083083333333,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            }
+        },
+        {
+            "no": "927",
+            "operator": "SMRT",
+            "next": {
+                "time": "2020-12-14T12:06:48+08:00",
+                "duration_ms": 814242,
+                "lat": 1.3941085,
+                "lng": 103.75387716666667,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "subsequent": {
+                "time": "2020-12-14T12:23:16+08:00",
+                "duration_ms": 1802242,
+                "lat": 0,
+                "lng": 0,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "next2": {
+                "time": "2020-12-14T12:23:16+08:00",
+                "duration_ms": 1802242,
+                "lat": 0,
+                "lng": 0,
+                "load": "SEA",
+                "feature": "WAB",
+                "type": "SD"
+            },
+            "next3": {
+                "time": "",
+                "duration_ms": null,
+                "lat": null,
+                "lng": null,
+                "load": "",
+                "feature": "",
+                "type": ""
+            }
+        }
+    ]
+}
